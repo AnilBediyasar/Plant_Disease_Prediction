@@ -12,9 +12,9 @@ def model_prediction(test_image):
     predictions = model.predict(input_arr)
     return np.argmax(predictions) #return index of max element
 
-#Sidebar
 st.sidebar.title("Dashboard")
-app_mode = st.sidebar.selectbox("Select Page",["Home","About","Disease Recognition"])
+
+app_mode = st.sidebar.radio("Select Page", ["Home", "About", "Disease Recognition"])
 
 #Main Page
 if(app_mode=="Home"):
