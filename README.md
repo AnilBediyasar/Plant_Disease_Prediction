@@ -1,4 +1,4 @@
-#Plant Disease Prediction Using Machine Learning:
+**Plant Disease Prediction Using Machine Learning**:
 
 The project aims to develop an accurate and efficient machine learning model for detecting and classifying plant diseases from leaf images. By leveraging advanced image processing and deep learning techniques, the system facilitates early disease detection, which helps in reducing crop loss and enhancing agricultural productivity.
 
