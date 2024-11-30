@@ -9,3 +9,6 @@ The project aims to develop an accurate and efficient machine learning model for
 **Evaluation and Visualization**: Employed Matplotlib and Seaborn for visualization, and scikit-learn for evaluating precision, recall, and F1-scores, with metrics ranging from 0.92 to 1.00 across most classes. Visualized results using confusion matrix and classification reports to address class imbalances and guide improvements.
 
 **Deployment**: Deployed the model using Streamlit, enabling real-time predictions and easy interaction for users in the field.
+
+![Screenshot 2024-09-05 192909](https://github.com/user-attachments/assets/18889339-0b79-49ea-9f35-986a557f2b04)
+
